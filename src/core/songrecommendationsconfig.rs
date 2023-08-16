@@ -19,7 +19,7 @@ impl Default for SongRecommendationsConfig {
             channel_id: "heroaax".to_owned(),
             filter_urls: vec![
                 "https://youtu.be/".to_owned(),
-                "https://www.youtube.com/watch?v".to_owned(),
+                "https://www.youtube.com/watch?v=".to_owned(),
             ],
         }
     }
